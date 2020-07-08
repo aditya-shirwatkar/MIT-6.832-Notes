@@ -8,6 +8,6 @@ Youtube Channel : [6.832 Underactuated Robotics](https://www.youtube.com/channel
 Textbook : [website](http://underactuated.csail.mit.edu/)
 
 
-| Lecture Number       | Notes         |
-| :---:                | :-:           |
-| [Lecture 1]()        | [Hackmd]()    |
+| Lecture Number                                   | Notes                                                            |
+| :---:                                            | :-:                                                              |
+| [Lecture 1](https://youtu.be/VeEqtTgDXFc)        | [Hackmd](https://hackmd.io/@16bggrZRTwyEEybTEZnBVw/H1lkxbXJw)    |
