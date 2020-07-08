@@ -9,6 +9,6 @@ These are my paper notes of Lectures at MIT-6.832 (Underactuated Robotics) of 20
 
 **Note :** It is recommended that one also goes through the textual matter of the course and solves the excercises to get a proper understanding of the topic
 
-| Lecture Number                                   | Notes                                                            |
-| :---:                                            | :-:                                                              |
-| [Lecture 1](https://youtu.be/VeEqtTgDXFc)        | [Hackmd](https://hackmd.io/@16bggrZRTwyEEybTEZnBVw/H1lkxbXJw)    |
+|:-:| Lecture Number                                              | Notes                                                            |
+|:-:| :---:                                                       | :-:                                                              |
+| 1 | [Why Study Dynamics ?](https://youtu.be/_1CtAHVea8I)        | [Hackmd](https://hackmd.io/@16bggrZRTwyEEybTEZnBVw/H1lkxbXJw)    |
