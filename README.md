@@ -6,6 +6,7 @@ These are my paper notes of Lectures at MIT-6.832 (Underactuated Robotics) of 20
 
 **Youtube Channel** : [6.832 Underactuated Robotics](https://www.youtube.com/channel/UChfUOAhz7ynELF-s_1LPpWg)  
 **Textbook** : [website](http://underactuated.csail.mit.edu/)
+
 **2019 Series** : [playlist](https://www.youtube.com/playlist?list=PLkx8KyIQkMfVG-tWyV3CcQbon0Mh5zYaj)
 
 **Note :** It is recommended that one also goes through the textual matter of the course and solves the excercises to get a proper understanding of the topic
