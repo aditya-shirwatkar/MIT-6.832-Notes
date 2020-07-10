@@ -18,5 +18,5 @@ These are my paper notes of Lectures at MIT-6.832 (Underactuated Robotics) of 20
 | 4 | [Continous Dynamic Programming](https://youtu.be/bMiiC94FJ5E)         | [Hackmd](https://hackmd.io/@16bggrZRTwyEEybTEZnBVw/B117n_HkD)    |   
 | 5 | [Model Underactuated Systems - I](https://youtu.be/VX86z8U4OsA)       | [Hackmd](https://hackmd.io/@16bggrZRTwyEEybTEZnBVw/HJTc1YHkD)    |   
 | 6 | [Model Underactuated Systems - II](https://youtu.be/T-aON2JHajs)      | [Hackmd](https://hackmd.io/@16bggrZRTwyEEybTEZnBVw/B1wAWKBkP)    |   
-| 3 | [Model Underactuated Systems - III](https://youtu.be/h5Po8WSaQcE)     | [Hackmd](https://hackmd.io/@16bggrZRTwyEEybTEZnBVw/HyAwXKHJP)    |   
+| 7 | [Model Underactuated Systems - III](https://youtu.be/h5Po8WSaQcE)     | [Hackmd](https://hackmd.io/@16bggrZRTwyEEybTEZnBVw/HyAwXKHJP)    |   
 
