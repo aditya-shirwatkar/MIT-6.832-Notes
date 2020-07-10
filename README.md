@@ -13,5 +13,7 @@ These are my paper notes of Lectures at MIT-6.832 (Underactuated Robotics) of 20
 |   | Lecture                                                               | Notes                                                            | 
 |:-:| :---:                                                                 | :-:                                                              |
 | 1 | [Why Study Dynamics ?](https://youtu.be/_1CtAHVea8I)                  | [Hackmd](https://hackmd.io/@16bggrZRTwyEEybTEZnBVw/H1lkxbXJw)    |
-| 2 | [Nonlinear Dynamics and Control](https://youtu.be/jvj4WefJ0S0)       | [Hackmd](https://hackmd.io/@16bggrZRTwyEEybTEZnBVw/Sy0QEVEyP)    |
-| 3 | [Dynamic Programming](https://youtu.be/oaRB_NqOvSU)                  | [Hackmd](https://hackmd.io/@16bggrZRTwyEEybTEZnBVw/BJDLpE4kP)    |           
+| 2 | [Nonlinear Dynamics and Control](https://youtu.be/jvj4WefJ0S0)        | [Hackmd](https://hackmd.io/@16bggrZRTwyEEybTEZnBVw/Sy0QEVEyP)    |
+| 3 | [Dynamic Programming](https://youtu.be/oaRB_NqOvSU)                   | [Hackmd](https://hackmd.io/@16bggrZRTwyEEybTEZnBVw/BJDLpE4kP)    |   
+| 3 | [Continous Dynamic Programming](https://youtu.be/bMiiC94FJ5E)         | [Hackmd](https://hackmd.io/@16bggrZRTwyEEybTEZnBVw/B117n_HkD)    |   
+
