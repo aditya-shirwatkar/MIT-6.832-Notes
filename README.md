@@ -19,4 +19,5 @@ These are my paper notes of Lectures at MIT-6.832 (Underactuated Robotics) of 20
 | 5 | [Model Underactuated Systems - I](https://youtu.be/VX86z8U4OsA)       | [Hackmd](https://hackmd.io/@16bggrZRTwyEEybTEZnBVw/HJTc1YHkD)    |   
 | 6 | [Model Underactuated Systems - II](https://youtu.be/T-aON2JHajs)      | [Hackmd](https://hackmd.io/@16bggrZRTwyEEybTEZnBVw/B1wAWKBkP)    |   
 | 7 | [Model Underactuated Systems - III](https://youtu.be/h5Po8WSaQcE)     | [Hackmd](https://hackmd.io/@16bggrZRTwyEEybTEZnBVw/HyAwXKHJP)    |   
+| 8 | [Computing Lyapunov Functions](https://youtu.be/x2-WsFxsNd0)          | [Hackmd](https://hackmd.io/@16bggrZRTwyEEybTEZnBVw/rJfpLfZfP)    |   
 
