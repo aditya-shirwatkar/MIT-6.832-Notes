@@ -20,6 +20,6 @@ These are my paper notes of Lectures at MIT-6.832 (Underactuated Robotics) of 20
 | 6 | [Model Underactuated Systems - II](https://youtu.be/T-aON2JHajs)                 | [Hackmd](https://hackmd.io/@16bggrZRTwyEEybTEZnBVw/B1wAWKBkP) |   
 | 7 | [Model Underactuated Systems - III](https://youtu.be/h5Po8WSaQcE)                | [Hackmd](https://hackmd.io/@16bggrZRTwyEEybTEZnBVw/HyAwXKHJP) |   
 | 8 | [Computing Lyapunov Functions](https://youtu.be/x2-WsFxsNd0)                     | [Hackmd](https://hackmd.io/@16bggrZRTwyEEybTEZnBVw/rJfpLfZfP) | 
-| 8 | [Computing Lyapunov Functions with respect to SOS](https://youtu.be/OOUBpAsJLrY) | [Hackmd](https://hackmd.io/@16bggrZRTwyEEybTEZnBVw/rJfpLfZfP) |   
+| 8 | [Computing Lyapunov Functions with respect to SoS](https://youtu.be/OOUBpAsJLrY) | [Hackmd](https://hackmd.io/@16bggrZRTwyEEybTEZnBVw/rJfpLfZfP) |   
 
 
